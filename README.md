@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/yvessiq">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yvessiq&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvessiq&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvessiq&layout=compact&langs_count=7&theme=monokai"/>
 </div>
  
 <div style="display: inline_block"><br>
